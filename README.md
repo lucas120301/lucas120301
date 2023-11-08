@@ -10,7 +10,7 @@
   
   <br>
   <br> <b>ℹ️ Description</b>
-  <br>This Project analyses articles from the social media site Medium. Medium is the trendy website for content creators and people with disruptive ideas, wishing to share their thoughts and experiences to build a strong community. We have chosen the most efficient/explainable regression method; logistic regression is rather adapted to classification algorithms with a large amount of categorical data. We will try to predict whether the article is viral (1) or not (0) setting a specific threshold of "claps". We will need to dive into our data to set a proper threshold. 
+  <br>This Project analyses articles from the social media site Medium. Medium is the trendy website for content creators and people with disruptive ideas, wishing to share their thoughts and experiences to build a strong community. We have chosen the most efficient/explainable regression method; logistic regression is rather adapted to classification algorithms with a large amount of categorical data. We will try to predict whether the article is viral (1) or not (0) setting a specific threshold of "claps".
   <br>
   <br> <b>📗 The method </b>
 <br> - Upload Dataset from Kaggle
