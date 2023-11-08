@@ -1,6 +1,8 @@
 <h2>Welcome to my Profile</h2>
 <h2>📈About Me:</h2>
 <b>I am Lucas Chan, a student at LSE pursuing my Bachelors in Management. I am passionate about the area of Finance and Technology, with aspirations to read MSc Computer Science and work in the field of Finance and Investments.</b>
+<br>
+<br>
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-c-a8113b175/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chanlucas555@gmail.com)
