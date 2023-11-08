@@ -7,7 +7,7 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-c-a8113b175/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chanlucas555@gmail.com)
 <h2>👨‍💻Projects:</h2>
-<h3>💡 Twitter Acquisition Sentiment Analysis - 
+<h3>💡 Twitter Acquisition Sentiment Analysis (on-going project) - 
 <a href="">Link</a></h3>
 <b>ℹ️ Description</b>
 <br>
