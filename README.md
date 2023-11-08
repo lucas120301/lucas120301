@@ -40,7 +40,7 @@
 <br> - Cleaning data and feature elaboration
 <br> - Textual analysis
 <br> - Structure Dataset into "training" and "testing"
-<br> - Training and Testing
+<br> - Training and Testing our method
 <br> - Interpretation and observations
 <br> - *bonus* Build and train a linear regression model
   <br>
