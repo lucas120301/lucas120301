@@ -16,7 +16,7 @@
 <br> - Used Selenium with Youtube API, Google API to automate the search processes and generate a database of links
 <br> - Web scraping of each article with BS4 and generated over 20,000 articles and 180,000 Youtube comments
 <br> - Performed sentiment analysis using BERT LLM
-<br> - Built our own simpler models, including VADER Dictionary, Logistic Regression, SVM, and ANNs
+<br> - Built our own simpler models, using VADER Dictionary, Logistic Regression, SVM, and ANNs
 <br> - Interpretation and Observations
 <br>
   <br> <b>🥇 Results and Limitations</b>
