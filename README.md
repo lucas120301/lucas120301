@@ -7,13 +7,23 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-c-a8113b175/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chanlucas555@gmail.com)
 <h2>👨‍💻Projects:</h2>
-<h3>💡 Twitter Acquisition Sentiment Analysis (on-going project) - 
+<h3>💡 Twitter Acquisition Sentiment Analysis - 
 <a href="">Link</a></h3>
 <b>ℹ️ Description</b>
+<br>In this project, we aimed to use Sentiment Analysis to Track Evolving Public Sentiment and understand how Public Perception of Influential Figures may influence Markets and Political Decisions. We focused on sources from news articles and Youtube comments to form the basis of our analysis.
 <br>
   <br> <b>📗 The method </b>
-<br>
+<br> - Used Selenium with Youtube API, Google API to automate the search processes and generate a database of links
+<br> - Web scraping of each article with BS4 and generated over 20,000 articles and 180,000 Youtube comments
+<br> - Performed sentiment analysis using BERT LLM
+<br> - Built our own simpler models, including VADER Dictionary, Logistic Regression, SVM, and ANNs
+<br> - Interpretation and Observations
   <br> <b>🥇 Results and Limitations</b>
+<br> - ⭐ First Place at the LSE Autumn Term Data Science Showcase
+<br> - ⭐ Strong Correlation Observed with Significant Events​
+<br> - ⭐ Good performance even for simple models​
+<br> - ❗ No Correlation with Stock Price
+<br> - ❗ Did not account for Posts with Images or Audio
 
 
 
