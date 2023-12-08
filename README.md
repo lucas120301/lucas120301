@@ -8,7 +8,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chanlucas555@gmail.com)
 <h2>👨‍💻Projects:</h2>
 <h3>💡 Twitter Acquisition Sentiment Analysis - 
-<a href="">Link</a></h3>
+<a href="https://github.com/adamzbikowski/Twitter-Acquisition-Sentiment-Analysis">Link</a></h3>
 <b>ℹ️ Description</b>
 <br>In this project, we aimed to use Sentiment Analysis to Track Evolving Public Sentiment and understand how Public Perception of Influential Figures may influence Markets and Political Decisions. We focused on sources from news articles and Youtube comments to form the basis of our analysis.
 <br>
@@ -37,8 +37,8 @@
 
 
 
-
-
+<br>
+<br>
 <br>
 <h3>💡 Predicting Virality of Social Media Post - 
 <a href="https://github.com/lucas120301/lucas120301.github.io/blob/main/Final%20Project%20-%20Business%20Analytics%20Using%20Python.py">Link</a></h3>
