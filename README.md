@@ -18,6 +18,7 @@
 <br> - Performed sentiment analysis using BERT LLM
 <br> - Built our own simpler models, including VADER Dictionary, Logistic Regression, SVM, and ANNs
 <br> - Interpretation and Observations
+<br>
   <br> <b>🥇 Results and Limitations</b>
 <br> - ⭐ First Place at the LSE Autumn Term Data Science Showcase
 <br> - ⭐ Strong Correlation Observed with Significant Events​
