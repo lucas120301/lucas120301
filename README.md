@@ -25,21 +25,10 @@
 <br> - ⭐ Good performance even for simple models​
 <br> - ❗ No Correlation with Stock Price
 <br> - ❗ Did not account for Posts with Images or Audio
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <br>
+<hr style="border-style: dotted" />
+
 <br>
 <h3>💡 Predicting Virality of Social Media Post - 
 <a href="https://github.com/lucas120301/lucas120301.github.io/blob/main/Final%20Project%20-%20Business%20Analytics%20Using%20Python.py">Link</a></h3>
