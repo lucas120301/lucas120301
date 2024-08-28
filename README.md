@@ -1,6 +1,6 @@
 <h2>Welcome to my Profile</h2>
 <h2>📈About Me:</h2>
-<b>I am Lucas Chan, a student at LSE pursuing my Bachelors in Management. I am passionate about the area of Finance and Technology, with aspirations to read MSc Computer Science and work in the field of Finance and Investments.</b>
+<b>I am Lucas Chan, a student at Imperial College London pursuing my Masters in Computer Science. I studied Management for my undergraduate degree at LSE. I am passionate about the area of Finance and Technology, with aspirations to work in the field of Finance - Quant, Asset Management, or Trading.</b>
 <br>
 <br>
 
